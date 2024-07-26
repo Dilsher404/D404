@@ -7,4 +7,4 @@ Well Come To Dilsher Github
       pkg install git
       git clone  https://github.com/Dilsher404/D404
      cd D404
-     python cookies.py
+     python create.py
