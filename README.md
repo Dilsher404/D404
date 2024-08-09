@@ -1,7 +1,7 @@
 ##     DILSHER-XD
 # D404
 PAID TOOLS
-<b></b> </br> <br>[![Github](https://img.shields.io/badge/Github-Dilsher404-dimgray?style=flat-square&logo=github)](https://github.com/AKING110)<br> [![Facebook](https://img.shields.io/badge/Facebook-AKING-blue?style=flat-square&logo=facebook)](https://www.facebook.com/MR.AKING.07)<br> [![Whatsapp](https://img.shields.io/badge/Whatsapp-AKING-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+923259678489)
+<b></b> </br> <br>[![Github](https://img.shields.io/badge/Github-Dilsher404-dimgray?style=flat-square&logo=github)](https://github.com/Dilsher404/D404)<br> [![Facebook](https://img.shields.io/badge/Facebook-DILSHER-blue?style=flat-square&logo=facebook)](https://www.facebook.com/MR.AKING.07)<br> [![Whatsapp](https://img.shields.io/badge/Whatsapp-DILSHER-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+923259678489)
 
 
 
@@ -12,7 +12,7 @@ PAID TOOLS
 
 ## <b>installation</b>
 
-🔰 _ᑕᖇᗴᗩTᗴ FULL OK IDZ_
+🔰 _CREATE FULL OK IDZ_
 
 
 - `pkg update`
