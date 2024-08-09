@@ -23,7 +23,7 @@ PAID TOOLS
 - `pip install mechanize`
 - `pip install bs4`
 - `rm -rf D404`
-- `git clone --depth=1 [(https://github.com/Dilsher404/D404)]`
+- `git clone --depth=1 https://github.com/Dilsher404/D404`
 - `cd D404`
 - `python Create.py`
 
